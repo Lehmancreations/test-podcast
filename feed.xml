@@ -1,40 +1,34 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
   <channel>
-    <title>TEST:Dudes And Dads Podcast</title>
+    <title>TEST:A test podcast to test things manually</title>
     <atom:link href="https://feeds.podcastmirror.com/dudesanddadspodcast" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-    <link>https://dudesanddadspodcast.com</link>
+    <link>https://lehmancreations.com.com</link>
     <description>This is just a test please dont subscribe to it</description>
-    <lastBuildDate>Tue, 28 Sep 2021 16:37:45 +0000</lastBuildDate>
+    <lastBuildDate>Friday, 01 Oct 2021 1:37:45 +0000</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>LehmanCreations</generator>
-    <podcast:locked owner="andy@dudesanddadspodcast.com">yes</podcast:locked>
-    <podcast:contact type="feedback" method="email">feedback@dudesanddadspodcast.com</podcast:contact>
-    <podcast:contact type="abuse" method="email">andy@dudesanddadspodcast.com</podcast:contact>
-    <podcast:contact type="advertising" method="email">andy@dudesanddadspodcast.com</podcast:contact>
+    <podcast:locked owner="andy@lehmancreations.com.com">yes</podcast:locked>
     <podcast:guid>89c17780-d4d5-5e3f-ba55-bca31265efa2</podcast:guid>
     <podcast:person role="host" img="https://dudesanddadspodcast.com/files/2019/03/andy.jpg" href="https://www.podchaser.com/creators/andy-lehman-107aRuVQLA">Andy Lehman</podcast:person>
-    <podcast:person role="host" img="https://dudesanddadspodcast.com/files/2019/03/joel.jpg" href="https://www.podchaser.com/creators/joel-demott-107aRuVQLH">Joel DeMott</podcast:person>
-    <itunes:summary>Bla Bla Bla&lt;br /&gt;
-&lt;br /&gt;
-Visit our website at &lt;a href=&quot;https://dudesanddadspodcast.com&quot;&gt;DudesAndDadsPodcast.com&lt;/a&gt;</itunes:summary>
-    <itunes:author>Joel Demott, Andy Lehman</itunes:author>
+    <itunes:summary>Bla Bla Bla this is just a test podcat feed. No need to actually subscribe</itunes:summary>
+    <itunes:author>Andy Lehman</itunes:author>
     <itunes:explicit>clean</itunes:explicit>
-    <itunes:image href="https://feeds.podcastmirror.com/~images/1442991629486968.jpeg"/>
+    <itunes:image href="https://lehmancreations.com/wp-content/uploads/ipodtouch.png"/>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
-      <itunes:name>Joel Demott, Andy Lehman</itunes:name>
-      <itunes:email>dudesanddadspodcast@gmail.com</itunes:email>
+      <itunes:name>Andy Lehman</itunes:name>
+      <itunes:email>andy@lehmancreations.com/itunes:email>
     </itunes:owner>
-    <managingEditor>dudesanddadspodcast@gmail.com (Joel Demott, Andy Lehman)</managingEditor>
-    <copyright>2021 Dudes And Dads Podcast</copyright>
+    <managingEditor>Andy@lehmancreations.com</managingEditor>
+    <copyright>2021 Lehmancreations</copyright>
     <itunes:subtitle>Just a test</itunes:subtitle>
     <image>
-      <title>TEST: Dudes And Dads Podcast</title>
-      <url>https://feeds.podcastmirror.com/~images/1442991629486968.jpeg</url>
-      <link>https://dudesanddadspodcast.com</link>
+      <title>TEST: Test podcast/title>
+      <url>https://https://lehmancreations.com/wp-content/uploads/ipodtouch.png</url>
+      <link>https://lehmancreations.com</link>
     </image>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Relationships"/>
@@ -49,7 +43,7 @@ Visit our website at &lt;a href=&quot;https://dudesanddadspodcast.com&quot;&gt;D
     <podcast:funding url="https://dudesanddadspodcast.com/support">Support The Show</podcast:funding>
     <rawvoice:subscribe feed="https://feeds.podcastmirror.com/dudesanddadspodcast" html="https://dudesanddadspodcast.com/subscribe/" itunes="https://itunes.apple.com/us/podcast/dudes-and-dads-podcast/id1455296843?mt=2&amp;app=podcast" blubrry="https://www.blubrry.com/dudesanddadspodcast/" stitcher="https://www.stitcher.com/podcast/dudes-and-dads-podcast?refid=stpr" tunein="https://tunein.com/podcasts/Kids--Family-Podcasts/Dudes-And-Dads-Podcast-p1209268/" spotify="https://open.spotify.com/show/2l8gs0LT1qVMYrp31ML1o0" pcindex="https://podcastindex.org/podcast/955598" podchaser="https://www.podchaser.com/podcasts/dudes-and-dads-podcast-814215"/>
     <podcast:value type="lightning" method="keysend" suggested="0.00000005000"/>
-    <pubDate>Tue, 28 Sep 2021 16:37:45 +0000</pubDate>
+    <pubDate>Fri, 01 Oct 2021 16:37:45 +0000</pubDate>
     <item>
       <title>This is just a test</title>
       <link>https://dudesanddadspodcast.com/s3e16/</link>
