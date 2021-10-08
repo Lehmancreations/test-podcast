@@ -5,7 +5,7 @@
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <link>https://lehmancreations.com.com</link>
     <description>This is just a test please dont subscribe to it</description>
-    <lastBuildDate>Friday, 01 Oct 2021 1:37:45 +0000</lastBuildDate>
+    <lastBuildDate>Friday, 08 Oct 2021 1:37:45 +0000</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -16,7 +16,7 @@
     <itunes:summary>Bla Bla Bla this is just a test podcat feed. No need to actually subscribe</itunes:summary>
     <itunes:author>Andy Lehman</itunes:author>
     <itunes:explicit>clean</itunes:explicit>
-    <itunes:image href="https://lehmancreations.com/wp-content/uploads/ipodtouch.png"/>
+    <itunes:image href="https://feeds.podcastmirror.com/~images/1413491625250663.jpeg"/>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name>Andy Lehman</itunes:name>
@@ -27,7 +27,7 @@
     <itunes:subtitle>Just a test</itunes:subtitle>
     <image>
       <title>TEST: Test podcast/title>
-      <url>https://https://lehmancreations.com/wp-content/uploads/ipodtouch.png</url>
+      <url>https://feeds.podcastmirror.com/~images/1413491625250663.jpeg</url>
       <link>https://lehmancreations.com</link>
     </image>
     <itunes:category text="Society &amp; Culture">
